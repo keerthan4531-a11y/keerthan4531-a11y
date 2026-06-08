@@ -185,7 +185,7 @@ class Keerthan:
 
 | Degree | Institution | Year | Score |
 |:-------|:-----------|:-----|:------|
-| B.Tech — Artificial Intelligence & Data Science | Nadar Saraswathi College of Engineering & Technology | 2022 – 2026 | Pursuing |
+| B.Tech — Artificial Intelligence & Data Science | Nadar Saraswathi College of Engineering & Technology | 2024 – 2028 | Pursuing |
 
 </div>
 
